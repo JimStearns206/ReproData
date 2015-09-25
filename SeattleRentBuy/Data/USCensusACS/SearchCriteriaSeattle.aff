@@ -1,0 +1,16 @@
+<query schema-version="1.0" lang="en" type="search" sig="W80SX9N8_ArW-WV9JByN_uhJvEw">
+  <search-config>
+    <topic-search dimension-name="d_dataset" dimension-value-name="2007 ACS 1-year estimates"/>
+    <topic-search dimension-name="d_dataset" dimension-value-name="2009 ACS 1-year estimates"/>
+    <topic-search dimension-name="d_dataset" dimension-value-name="2010 ACS 1-year estimates"/>
+    <topic-search dimension-name="d_dataset" dimension-value-name="2012 ACS 1-year estimates"/>
+    <topic-search dimension-name="d_dataset" dimension-value-name="2013 ACS 1-year estimates"/>
+    <topic-search dimension-name="d_dataset" dimension-value-name="2014 ACS 1-year estimates"/>
+    <topic-search dimension-name="d_housing_occupancy" dimension-value-name="Owner/Renter (Tenure in Occupied Units)"/>
+    <topic-search dimension-name="d_people_income" dimension-value-name="Income/Earnings (Households)"/>
+    <topic-search dimension-name="d_product_type" dimension-value-name="Detailed Table"/>
+    <topic-search dimension-name="d_program" dimension-value-name="American Community Survey"/>
+    <category-search type="geo" summary-level-code="040" name="Washington"/>
+    <category-search type="geo" summary-level-code="160" name="Seattle city, Washington"/>
+  </search-config>
+</query>
