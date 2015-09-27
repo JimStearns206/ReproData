@@ -1,4 +1,4 @@
 # WesData
 Wesleyan University Data Analysis and Intepretation Coursera MOOC
 
-For Course 1 work, please see subdirectory [SeattleRentBuy](SeattleRentBuy/README.md).
+For Course 1 work, please see subdirectory [SeattleRentBuy](SeattleRentBuy/).
