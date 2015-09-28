@@ -1,4 +1,4 @@
-# WesData
-Wesleyan University Data Analysis and Intepretation Coursera MOOC
+# ReproData
+Reproduce Data Results Created by Others. The data equivalent of playing scales.
 
-For Course 1 work, please see subdirectory [SeattleRentBuy](SeattleRentBuy/).
+* [SeattleRentBuy](SeattleRentBuy/): Seattle home-owning vs renting in Seattle by household income in the 2010's. 
